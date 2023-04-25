@@ -1,0 +1,411 @@
+date,name,value
+1970-01-01,Neil Young,0.5
+1970-01-01,Grateful Dead,1
+1970-01-01,Curtis Mayfield,1
+1970-01-01,Van Morrison,3
+1970-01-01,James Taylor,3
+1970-01-01,Creedence Clearwater Revival,4
+1970-01-01,Black Sabbath,4
+1970-01-01,Santana,6
+1970-01-01,Led Zeppelin,14
+1970-01-01,The Beatles,21
+1971-01-01,David Bowie,0.5
+1971-01-01,The Doors,1
+1971-01-01,Marvin Gaye,4
+1971-01-01,Janis Joplin,4
+1971-01-01,Rod Stewart,4
+1971-01-01,Jethro Tull,7
+1971-01-01,John Lennon,8
+1971-01-01,The Who,10
+1971-01-01,The Rolling Stones,21
+1971-01-01,Carole King,25
+1972-01-01,Genesis,0.5
+1972-01-01,Stevie Wonder,1
+1972-01-01,Steely Dan,1
+1972-01-01,Rod Stewart,2
+1972-01-01,Jethro Tull,3
+1972-01-01,Deep Purple,3
+1972-01-01,The Allman Brothers Band,3
+1972-01-01,Neil Young,5
+1972-01-01,David Bowie,7
+1972-01-01,The Rolling Stones,12
+1973-01-01,Genesis,0.5
+1973-01-01,David Bowie,1
+1973-01-01,Stevie Wonder,1
+1973-01-01,he Allman Brothers Band,2
+1973-01-01,The Rolling Stones,4
+1973-01-01,The Who,4
+1973-01-01,Paul McCartney & Wings,7
+1973-01-01,Led Zeppelin,11
+1973-01-01,Elton John,30
+1973-01-01,Pink Floyd,45
+1974-01-01,LaBelle,0.5
+1974-01-01,Genesis,0.5
+1974-01-01,10cc,0.5
+1974-01-01,Bob Dylan,1
+1974-01-01,Steely Dan,1
+1974-01-01,The Marshall Tucker Band,1
+1974-01-01,Roxy Music,1
+1974-01-01,Joni Mitchell,2
+1974-01-01,Eric Clapton,3
+1974-01-01,Elton John,24
+1975-01-01,Jefferson Starship,2
+1975-01-01,Bob Dylan,2
+1975-01-01,Queen,6
+1975-01-01,Fleetwood Mac,7
+1975-01-01,Eagles,7
+1975-01-01,Elton John,7
+1975-01-01,Aerosmith,8
+1975-01-01,Bruce Springsteen,15
+1975-01-01,Led Zeppelin,16
+1975-01-01,Pink Floyd,24
+1976-01-01,Blue Öyster Cult,1
+1976-01-01,Boz Scaggs,2
+1976-01-01,Steely Dan,2
+1976-01-01,Bob Dylan,2
+1976-01-01,Jimmy Buffett,3
+1976-01-01,Aerosmith,4
+1976-01-01,Stevie Wonder,10
+1976-01-01,Boston,17
+1976-01-01,Peter Frampton,18
+1976-01-01,Eagles,32
+1977-01-01,Stills & Nash,3
+1977-01-01,Eric Clapton,3
+1977-01-01,Steely Dan,3
+1977-01-01,Bob Marley & The Wailers,4
+1977-01-01,Kansas,4
+1977-01-01,Billy Joel,10
+1977-01-01,Stevie Wonder,10
+1977-01-01,Eagles,32
+1977-01-01,Fleetwood Mac,40
+1977-01-01,Bee Gees,40
+1978-01-01,Patti Smith Group,0.5
+1978-01-01,Dire Straits,2
+1978-01-01,Bruce Springsteen,3
+1978-01-01,Journey,3
+1978-01-01,The Who,3
+1978-01-01,The Doobie Brothers,3
+1978-01-01,The Rolling Stones,6
+1978-01-01,Billy Joel,7
+1978-01-01,Blondie,10
+1978-01-01,Queen,26
+1979-01-01,Tom Petty and the Heartbreakers,3
+1979-01-01,The Police,3
+1979-01-01,Mac,4
+1979-01-01,Led Zeppelin,6
+1979-01-01,AC/DC,7
+1979-01-01,Eagles,7
+1979-01-01,Donna Summer,10
+1979-01-01,Supertramp,20
+1979-01-01,Michael Jackson,20
+1979-01-01,Pink Floyd,30
+1980-01-01,David Bowie,1
+1980-01-01,Talking Heads,1
+1980-01-01,The Cars,1
+1980-01-01,Steely Dan,2
+1980-01-01,John Lennon & Yoko Ono,3
+1980-01-01,Bruce Springsteen,5
+1980-01-01,The Rolling Stones,6
+1980-01-01,Billy Joel,7
+1980-01-01,Queen,25
+1980-01-01,AC/DC,50
+1981-01-01,Van Halen,2
+1981-01-01,The Police,3
+1981-01-01,Rush,4
+1981-01-01,The Rolling Stones,4
+1981-01-01,AC/DC,4
+1981-01-01,Phil Collins -,5
+1981-01-01,AC/DC,6
+1981-01-01,Foreigner,7
+1981-01-01,REO Speedwagon,10
+1981-01-01,Journey,12
+1982-01-01,Donald Fagen,1
+1982-01-01,Elton John,1
+1982-01-01,Billy Joel,2
+1982-01-01,Fleetwood Mac,2
+1982-01-01,Huey Lewis and the News,2
+1982-01-01,Van Halen,2
+1982-01-01,John Cougar Mellencamp,5
+1982-01-01,Men at Work,6
+1982-01-01,Asia,10
+1982-01-01,Michael Jackson,66
+1983-01-01,Talking Heads,2
+1983-01-01,Iron Maiden,2
+1983-01-01,U2,5
+1983-01-01,Flashdance,6
+1983-01-01,Journey,6
+1983-01-01,The Police,8
+1983-01-01,Billy Joel,8
+1983-01-01,Lionel Richie,10
+1983-01-01,Def Leppard,10
+1983-01-01,Michael Jackson,66
+1984-01-01,U2,4
+1984-01-01,Bryan Adams,5
+1984-01-01,The Cars,6
+1984-01-01,Van Halen,10
+1984-01-01,Wham!,10
+1984-01-01,Huey Lewis and the News,10
+1984-01-01,Tina Turner,10
+1984-01-01,Madonna,21
+1984-01-01,Prince and The Revolution,22
+1984-01-01,Bruce Springsteen,30
+1985-01-01,Eurythmics,1
+1985-01-01,David Lee Roth,2
+1985-01-01,John Mellencamp,5
+1985-01-01,Wham!,10
+1985-01-01,Tears for Fears,10
+1985-01-01,Madonna,21
+1985-01-01,Phil Collins,25
+1985-01-01,Whitney Houston,25
+1985-01-01,Dire Straits,30
+1985-01-01,Bruce Springsteen,30
+1986-01-01,Europe,3
+1986-01-01,Huey Lewis and the News,3
+1986-01-01,Run-D.M.C,3
+1986-01-01,Peter Gabriel,5
+1986-01-01,Janet Jackson,5
+1986-01-01,Van Halen,6
+1986-01-01,Top Gun (soundtrack),9
+1986-01-01,Paul Simon,16
+1986-01-01,Madonna,25
+1986-01-01,Bon Jovi,28
+1987-01-01,Bruce Springsteen,3
+1987-01-01,Fleetwood Mac,4
+1987-01-01,Prince,4
+1987-01-01,Motley Crue,4
+1987-01-01,Whitney Houston,20
+1987-01-01,George Michael,20
+1987-01-01,U2,25
+1987-01-01,Def Leppard,25
+1987-01-01,Guns N' Roses,30
+1987-01-01,Michael Jackson,35
+1988-01-01,Steve Winwood,3
+1988-01-01,Traveling Wilburys,3
+1988-01-01,Enya,4
+1988-01-01,INXS,6
+1988-01-01,Kylie Minogue,10
+1988-01-01,Bon Jovi,18
+1988-01-01,George Michael,20
+1988-01-01,Def Leppard,25
+1988-01-01,Guns N' Roses,30
+1988-01-01,Dirty Dancing (soundtrack),32
+1989-01-01,The Cure,3
+1989-01-01,Fine Young Cannibals,4
+1989-01-01,Tracy Chapman,5
+1989-01-01,Van Morrison,5
+1989-01-01,Bonnie Raitt,5
+1989-01-01,Guns N' Roses,5
+1989-01-01,Don Henley,6
+1989-01-01,Aerosmith,7
+1989-01-01,Milli Vanilli,10
+1989-01-01,Madonna,15
+1990-01-01,AC/DC,5
+1990-01-01,Depeche Mode,6
+1990-01-01,Sinéad O'Connor,7
+1990-01-01,Wilson Phillips,10
+1990-01-01,Janet Jackson,12
+1990-01-01,Mariah Carey,15
+1990-01-01,Phil Collins,16
+1990-01-01,MC Hammer,18
+1990-01-01,New Kids on the Block,20
+1990-01-01,Madonna,27
+1991-01-01,Bonnie Raitt,7
+1991-01-01,Natalie Cole,7
+1991-01-01,Prince and The New Power Generation,7
+1991-01-01,REM,18
+1991-01-01,U2,18
+1991-01-01,Guns N' Roses,20
+1991-01-01,Guns N' Roses,20
+1991-01-01,Nirvana,30
+1991-01-01,Metallica,30
+1991-01-01,Michael Jackson,32
+1992-01-01,Bruce Springsteen,2
+1992-01-01,The Black Crowes,2
+1992-01-01,The Cure,2
+1992-01-01,Dr. Dre,4
+1992-01-01,Billy Ray Cyrus,9
+1992-01-01,Def Leppard,10
+1992-01-01,Pearl Jam,13
+1992-01-01,Guns N' Roses,20
+1992-01-01,Nirvana,30
+1992-01-01,The Bodyguard (soundtrack),45
+1993-01-01,Cypress Hill,3
+1993-01-01,Dr. Dre,4
+1993-01-01,Nirvana,5
+1993-01-01,Spin Doctors,5
+1993-01-01,U2,7
+1993-01-01,Pearl Jam,9
+1993-01-01,Janet Jackson,14
+1993-01-01,Aerosmith,20
+1993-01-01,Mariah Carey,28
+1993-01-01,The Bodyguard (soundtrack),45
+1994-01-01,Beastie Boys,3
+1994-01-01,Nirvana,5
+1994-01-01,Pearl Jam,5
+1994-01-01,Stone Temple Pilots,6
+1994-01-01,Counting Crows,7
+1994-01-01,Soundgarden,9
+1994-01-01,R.E.M,9
+1994-01-01,TLC,11
+1994-01-01,Ace of Base,23
+1994-01-01,The Lion King (soundtrack),30
+1995-01-01,Pink Floyd,2
+1995-01-01,Chris Isaak,2
+1995-01-01,Tesla,2
+1995-01-01,Björk,3
+1995-01-01,Radiohead,4
+1995-01-01,Michael Bolton,9
+1995-01-01,Michael Jackson,20
+1995-01-01,Hootie & the Blowfish,21
+1995-01-01,Mariah Carey,25
+1995-01-01,Alanis Morissette,33
+1996-01-01,Pearl Jam,1
+1996-01-01,Beck,2
+1996-01-01,Beck,2
+1996-01-01,Evita (soundtrack),5
+1996-01-01,Sublime,6
+1996-01-01,Metallica,10
+1996-01-01,The Smashing Pumpkins,10
+1996-01-01,Fugees,22
+1996-01-01,Celine Dion,32
+1996-01-01,Alanis Morissette,33
+1997-01-01,Robbie Williams,2
+1997-01-01,Radiohead,4
+1997-01-01,Fleetwood,5
+1997-01-01,The Wallflowers,6
+1997-01-01,Oasis,8
+1997-01-01,Buena Vista Social Club,8
+1997-01-01,The Prodigy,10
+1997-01-01,Aqua,14
+1997-01-01,Spice Girls,20
+1997-01-01,Celine Dion,31
+1998-01-01,Sheryl Crow,4
+1998-01-01,Savage Garden,7
+1998-01-01,Aqua,8
+1998-01-01,Spice Girls,10
+1998-01-01,Armageddon (soundtrack),14
+1998-01-01,Madonna,16
+1998-01-01,Celine Dion,18
+1998-01-01,Lauryn Hill,19
+1998-01-01,Ricky Martin,22
+1998-01-01,Titanic (soundtrack),30
+1999-01-01,Enrique Iglesia,6
+1999-01-01,TLC,10
+1999-01-01,Dixie Chicks,10
+1999-01-01,Destiny's Child,10
+1999-01-01,Ricky Martin,12
+1999-01-01,Celine Dion,12
+1999-01-01,Britney Spears,14
+1999-01-01,Red Hot Chili Peppers,15
+1999-01-01,Backstreet Boys,24
+1999-01-01,Shania Twain,40
+2000-01-01,Christina Aguilera,8
+2000-01-01,Destiny's Child,9
+2000-01-01,Christina Aguilera,9
+2000-01-01,Nelly,10
+2000-01-01,Creed,11
+2000-01-01,NSYNC,15
+2000-01-01,Backstreet Boys,15
+2000-01-01,Britney Spears,20
+2000-01-01,Eminem,23
+2000-01-01,The Beatles,31
+2001-01-01,NSYNC,5
+2001-01-01,Creed,6
+2001-01-01,Janet Jackson,7
+2001-01-01,Staind,8
+2001-01-01,Aaliyah,8
+2001-01-01,Nickelback,10
+2001-01-01,Destiny's Child,11
+2001-01-01,Alicia Keys,12
+2001-01-01,Shaggy,15
+2001-01-01,Linkin Park,24
+2002-01-01,Red Hot Chili Peppers,8
+2002-01-01,George Harrison,9
+2002-01-01,Nelly,9
+2002-01-01,Bruce Springsteen,10
+2002-01-01,Shania Twain,11
+2002-01-01,Christina Aguilera,13
+2002-01-01,P!nk,15
+2002-01-01,Avril Lav,20
+2002-01-01,Eminem,27
+2002-01-01,Norah Jones,27
+2003-01-01,The White Stripes,3
+2003-01-01,Duff,5
+2003-01-01,Madonna,5
+2003-01-01,Christina Aguilera,7
+2003-01-01,Justin Timberlake,8
+2003-01-01,Alicia Keys,8
+2003-01-01,Beyoncé,11
+2003-01-01,Outkast,14
+2003-01-01,50 Cent,15
+2003-01-01,Evanescence,17
+2004-01-01,Scissor Sisters,3
+2004-01-01,Ciara,3
+2004-01-01,Ashlee Simpson,3
+2004-01-01,The Killers,7
+2004-01-01,Gwen Stefani,7
+2004-01-01,Avril Lavigne,10
+2004-01-01,Eminem,11
+2004-01-01,Norah Jones,12
+2004-01-01,System of a Down,12
+2004-01-01,Usher,20
+2005-01-01,Gretchen Wilson,3
+2005-01-01,Kanye West,5
+2005-01-01,Gwen Stefani,7
+2005-01-01,Jack Johnson,7
+2005-01-01,Coldplay,10
+2005-01-01,The Black Eyed Peas,10
+2005-01-01,50 Cent,11
+2005-01-01,Kelly Clarkson,12
+2005-01-01,Mariah Carey,12
+2005-01-01,Green Day,15
+2006-01-01,John Mayer,3
+2006-01-01,Gnarls Barkley,5
+2006-01-01,Evanescence,6
+2006-01-01,Beyoncé,6
+2006-01-01,High School Musical (soundtrack),7
+2006-01-01,Carrie Underwood,8
+2006-01-01,Dixie Chicks,8
+2006-01-01,Justin Timberlake,10
+2006-01-01,Nelly Furtado,10
+2006-01-01,Amy Winehouse,20
+2007-01-01,Kanye West,3
+2007-01-01,Britney Spears,3
+2007-01-01,Celine Dion,3
+2007-01-01,Bon Jovi,4
+2007-01-01,Carrie Underwood,4
+2007-01-01,Alicia Keys,6
+2007-01-01,Fergie,6
+2007-01-01,Daughtry,7
+2007-01-01,Linkin Park,7
+2007-01-01,Rihanna,9
+2008-01-01,Marilyn Manson,1
+2008-01-01,New Kids on the Block,1
+2008-01-01,Guns N' Roses,4
+2008-01-01,Lil Wayne,6
+2008-01-01,Duffy,6
+2008-01-01,AC/DC,8
+2008-01-01,Beyoncé,8
+2008-01-01,Coldplay,10
+2008-01-01,Taylor Swift,12
+2008-01-01,Lady Gaga,15
+2009-01-01,Bon Jovi,2
+2009-01-01,Jay-Z,3
+2009-01-01,Rihanna,3
+2009-01-01,Andrea Bocelli,3
+2009-01-01,Eminem,5
+2009-01-01,Michael Bublé,6
+2009-01-01,Taylor Swift,8
+2009-01-01,Lady Gaga,9
+2009-01-01,The Black Eyed Peas,11
+2009-01-01,Susan Boyle,14
+2010-01-01,The Black Eyed Peas,3
+2010-01-01,Katy Perry,3
+2010-01-01,Jason Aldean,3
+2010-01-01,Justin Bieber,5
+2010-01-01,Lady Antebellum,5
+2010-01-01,Rihanna,6
+2010-01-01,Katy Perry,6
+2010-01-01,Taylor Swift,7
+2010-01-01,Lady Gaga,8
+2010-01-01,Eminem,10
